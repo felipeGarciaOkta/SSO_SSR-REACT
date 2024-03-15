@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@okta/jwt-verifier": "^3.0.1",
+    "@okta/okta-react": "^6.7.0",
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
